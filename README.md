@@ -53,4 +53,6 @@ Open-> quiz_application
 
 Результат - код чистый, все задачи выполнены, приложение корректно работает. 
 
-![GIF-230815_130730](https://github.com/AlexAAushev/quiz-application/assets/126689986/9d499d22-4be0-4d9c-8e6c-910a30dd2fbf)
+## Демонстрация работы приложения:
+
+![Quiz (1)](https://github.com/AlexAAushev/quiz-application/assets/126689986/0151678a-e142-4eb7-a515-f0da735a1af7)
