@@ -52,3 +52,5 @@ Open-> quiz_application
 Добавлена готовая анимация с помощью Lottie на экран «Результаты».
 
 Результат - код чистый, все задачи выполнены, приложение корректно работает. 
+
+![GIF-230815_130730](https://github.com/AlexAAushev/quiz-application/assets/126689986/9d499d22-4be0-4d9c-8e6c-910a30dd2fbf)
